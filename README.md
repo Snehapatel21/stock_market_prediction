@@ -17,3 +17,8 @@ matplotlib
 Simple Linear Regression,
 Gradient Boost Method,
 XGBoost Method
+
+
+# video of whole code
+
+https://youtu.be/iP8Pl2x4m0Y
