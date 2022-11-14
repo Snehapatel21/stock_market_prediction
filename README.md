@@ -21,5 +21,4 @@ XGBoost Method
 
 # video of whole code
 
-https://youtu.be/iP8Pl2x4m0
 [<img src="https://www.phoneworld.com.pk/wp-content/uploads/2020/08/youtube-cover-photo.jpg" width="60%">](https://youtu.be/iP8Pl2x4m0)
