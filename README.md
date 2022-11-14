@@ -22,3 +22,4 @@ XGBoost Method
 # video of whole code
 
 https://youtu.be/iP8Pl2x4m0Y
+![image](https://user-images.githubusercontent.com/100670464/201684698-43827aba-6206-42b1-8eea-88016c85d56e.png)
